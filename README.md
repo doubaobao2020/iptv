@@ -1,6 +1,6 @@
 # iptv
 
-[1] 这是一个个人的在线iptv资源存放点，用于存放适用于南京移动、淮安电信等不同城市网络电视的iptv视频源
+[1] 这是一个个人的在线iptv资源存放点，用于存放适用于南京移动（NJ_CMCC））、南京电信（NJ_CTCC））、淮安电信（HA_CTCC）等不同城市网络电视的iptv视频源
 
 [2] iptv源来于github/iptv ， https://epg.pw/test_channel_page.html ，等共享地址，并使用【一个橙子】、【IPTV-CHECKER】等工具，分别在移动和电信网络进行验证，最终保留1080P及以上分辨率的高清直播源
 

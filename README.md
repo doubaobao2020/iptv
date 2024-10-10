@@ -2,7 +2,7 @@
 
 [1] 这是一个个人的在线iptv资源存放点，用于存放适用于南京移动、淮安电信等不同城市网络电视的iptv视频源
 
-[2] iptv源来于github/iptv ， https://epg.pw/test_channel_page.html ，等共享地址，并使用【一个橙子】分别在移动和电信网络进行验证，最终保留高清分辨率以上的直播源
+[2] iptv源来于github/iptv ， https://epg.pw/test_channel_page.html ，等共享地址，并使用【一个橙子】、【IPTV-CHECKER】等工具，分别在移动和电信网络进行验证，最终保留1080P及以上分辨率的高清直播源
 
 [3] 直播源数据在使用时，
   1) 需要将本站点各个文件的内容拷贝至本地txt

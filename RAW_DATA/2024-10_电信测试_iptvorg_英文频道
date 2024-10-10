@@ -1,0 +1,117 @@
+Undefined,#genre#
+未定义_ABC 25 Columbia,http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+未定义_Beverly Hills Television 10,https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/beverlyhills/G0072_006/playlist.m3u8
+未定义_Beverly Hills Television 35,https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/beverlyhills/G0072_007/playlist.m3u8
+未定义_Big Ten Network,http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+未定义_Celebrity Scene TV,https://bozztv.com/gusa/gusa-celebrityscene/index.m3u8
+未定义_Charlotte County CCTV,https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/charlotte/G0055_009/playlist.m3u8
+未定义_Del Mar TV,https://d25ykpi2vxhoyc.cloudfront.net/delmar-cdn/dmtv/playlist.m3u8
+未定义_FNX,https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
+未定义_Logo East,http://fl3.moveonjoy.com/Logo/index.m3u8
+未定义_MTC,https://mtchls.wns.live/hls/stream.m3u8
+未定义_Olelo Community Media Channel 49,https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_009/playlist.m3u8
+未定义_Olelo Community Media Channel 53,https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_011/playlist.m3u8
+未定义_Olelo Community Media Channel 55,https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_013/playlist.m3u8
+未定义_Oxygen East,http://fl2.moveonjoy.com/OXYGEN/index.m3u8
+未定义_Showtime East,http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+未定义_Tempe Channel 11,https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/tempe/G0355_003/chunklist.m3u8
+未定义_Yes Network,http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
+
+News,#genre#
+News_阿富汗Afghanistan International,https://hls.afintl.com/hls/stream.m3u8
+News_法国France 24 English,http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
+News_美国MSNBC,http://fl2.moveonjoy.com/MSNBC/index.m3u8
+News_美国Newsy,https://linear-460.frequency.stream/dist/vix/460/hls/master/playlist.m3u8
+News_综合Payvand TV,https://bozztv.com/cus01/ucur1/Payvand/index.m3u8
+News_印度WION,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+
+General,#genre#
+综合_美国Akaku 53-Hawaii,https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8
+综合_美国Akaku 54-Hawaii,https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
+综合_美国Akaku 55-Hawaii,https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
+综合_aurLife HD,http://124.109.47.101/hls/stream1.m3u8
+综合_Burbank Channel,https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/burbank/G0240_009/playlist.m3u8
+综合_Caribbean Advantage TV,https://video2.getstreamhosting.com:19360/8216/8216.m3u8
+综合_Carlsbad City TV Channel,https://edge-f.swagit.com/live/carlsbadca/live-3-a-1/playlist.m3u8
+综合_Channel 11,https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/scottsdale/G0040_007/chunklist.m3u8
+综合_County News Center,https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/playlist.m3u8
+综合_Faraja Television,https://panel.freedomflixtv.org:3868/hybrid/play.m3u8
+综合_FOX 23 Cape Girardeau MO,https://live.field59.com/kbsi/kbsi1/playlist.m3u8
+综合_GH Canada TV,https://stream.bozztv.com/tvstat-tamar/tvstat-tamar/playlist.m3u8
+综合_GHLife TV,https://stream-server9-jupiter.muxlive.com/hls/ghlifetv/index.m3u8
+综合_GHtv Holland,http://37.48.120.77:8080/hls/ghtvonline.m3u8
+综合_Irvine Community Television,https://cdn3.wowza.com/5/WDIrTW5sM1JEY1NN/irvine/G0016_010/playlist.m3u8
+综合_Millbrae Community Television,https://603591da64140.streamlock.net/live/mp4:MCTVtest_aac/playlist.m3u8
+综合_MyEncinitasTV,https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/encinitas/G0322_002/playlist.m3u8
+综合_Orange TV3,https://cdn3.wowza.com/5/R09KQXpaMWlrRjly/cityoforange/G1025_004/playlist.m3u8
+综合_Palm Springs Community Television,https://edge-f.swagit.com/live/palmspringsca/live-1-a/playlist.m3u8
+综合_QTV Gambia,https://player.qtv.gm/hls/live.stream.m3u8
+综合_TV BRICS English,https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
+综合_TVS Television Network,https://bozztv.com/gusa/gusa-tvstn/index.m3u8
+
+
+Shop,#genre#
+购物_GS Shop,https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+
+Movies,#genre#
+影视_Always Funny Videos,https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/alwaysfunny_720p/playlist.m3u8
+影视_AMC East,http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+影视_AVA Family,https://familyhls.avatv.live/hls/stream.m3u8
+影视_Crave 1,http://fl3.moveonjoy.com/CRAVE_1/index.m3u8
+影视_Crave 3,http://fl3.moveonjoy.com/CRAVE_3/index.m3u8
+影视_Crave 4,http://fl2.moveonjoy.com/CRAVE_4/index.m3u8
+影视_Freedom Movie Sphere,https://panel.freedomflixtv.org:3311/stream/play.m3u8
+影视_MGM+ East,http://fl2.moveonjoy.com/EPIX/index.m3u8
+影视_Sony Movies,http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+影视_Paramount Network East,http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+
+Music,#genre#
+音乐_AMusic Channel,http://mn-nl.mncdn.com/amusictv/amusicsrt.stream/playlist.m3u8
+音乐_Juice TV,https://juicex.nz/hls/mystream.m3u8
+音乐_Live99FM,https://media.streambrothers.com:19360/8022/8022.m3u8
+音乐_Nick Music,http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
+音乐_Now TV 102.3FM,https://videostream.jpbgdigital.com/NOWTV.m3u8
+
+Documentary,#genre#
+纪录_AXS TV NOW,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+
+Travel,#genre#
+旅游_Beach TV CSULB,http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
+
+Comedy,#genre#
+喜剧_Camera Smile,https://bozztv.com/gusa/gusa-camerasmile/index.m3u8
+喜剧_Comedy Central Eas,http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+
+Sports,#genre#
+体育_CBS Sports Network USA,http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+体育_Fox Sports 1,http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+体育_MLB Network,http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+体育_NFL Network,http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+体育_One Golf,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+体育_TVS Turbo,https://bozztv.com/gusa/gusa-tvsturbo/index.m3u8
+体育_TVS Women Sports,https://bozztv.com/gusa/gusa-tvswsn/index.m3u8
+
+
+Cooking,#genre#
+烹饪_Chef Champion,https://bozztv.com/gusa/gusa-chefchampion/index.m3u8
+
+Business,#genre#
+财经_CNBC,http://fl2.moveonjoy.com/CNBC/index.m3u8
+
+Kids,#genre#
+儿童_Disney Channel,http://109.233.89.170/Disney_Channel/mono.m3u8
+儿童_Nickelodeon,http://143.244.60.30/NICKELODEON/index.m3u8
+儿童_NickToons,http://143.244.60.30/NICKTOONS/index.m3u8
+
+Entertainment,#genre#
+娱乐_BET Her East,http://fl2.moveonjoy.com/BET_HER/index.m3u8
+娱乐_FX2 Farsi,https://toonixhls.wns.live/hls/stream.m3u8
+娱乐_Game Show Network East,https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
+娱乐_TVCARiB,https://tvc.mediacaribstream.com:5443/LiveApp/streams/678996728477322762133253.m3u8
+娱乐_Panarmenian TV,https://us1.ottstream.live:17071/C279/index.m3u8?token=123TREWQ456
+
+Education,#genre#
+教育_Haddam Killingworth High School TV,https://reflect-hktv.cablecast.tv/live-3/live/live.m3u8
+
+Family,#genre#
+家庭_Hallmark Channel East,http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8

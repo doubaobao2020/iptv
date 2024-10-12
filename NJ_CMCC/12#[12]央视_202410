@@ -37,6 +37,7 @@ CCTV1,http://ott.mobaibox.com/PLTV/4/224/3221228049/index.m3u8
 CCTV1,http://ott.mobaibox.com/PLTV/4/224/3221228146/index.m3u8
 CCTV1,http://ott.mobaibox.com/PLTV/4/224/3221228149/index.m3u8
 CCTV1,http://ott.mobaibox.com/PLTV/4/224/3221228213/index.m3u8
+CCTV1,https://live.goodiptv.club/api/cqyx.php?id=cctv1HD
 
 
 CCTV2,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221227543/index.m3u8
@@ -141,6 +142,7 @@ CCTV5,http://ott.mobaibox.com/PLTV/4/224/3221228082/index.m3u8
 CCTV5,http://ott.mobaibox.com/PLTV/4/224/3221228173/index.m3u8
 CCTV5,http://ott.mobaibox.com/PLTV/4/224/3221228179/index.m3u8
 CCTV5,http://ott.mobaibox.com/PLTV/4/224/3221228395/index.m3u8
+CCTV5,https://live.goodiptv.club/api/cqyx.php?id=cctv5HD
 
 CCTV5+,http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221227480/1.m3u8
 CCTV5+,http://ott.mobaibox.com/PLTV/3/224/3221225604/index.m3u8
@@ -189,6 +191,7 @@ CCTV6,http://ott.mobaibox.com/PLTV/4/224/3221228123/index.m3u8
 CCTV6,http://ott.mobaibox.com/PLTV/4/224/3221228185/index.m3u8
 CCTV6,http://ott.mobaibox.com/PLTV/4/224/3221228196/index.m3u8
 CCTV6,http://ott.mobaibox.com/PLTV/4/224/3221228280/index.m3u8
+CCTV6,https://live.goodiptv.club/api/cqyx.php?id=cctv6HD
 
 CCTV7,http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221227314/1.m3u8
 CCTV7,http://ott.mobaibox.com/PLTV/3/224/3221225546/index.m3u8
@@ -199,6 +202,7 @@ CCTV7,http://ott.mobaibox.com/PLTV/4/224/3221225546/index.m3u8
 CCTV7,http://ott.mobaibox.com/PLTV/4/224/3221227314/index.m3u8
 CCTV7,http://ott.mobaibox.com/PLTV/4/224/3221227626/index.m3u8
 CCTV7,http://ott.mobaibox.com/PLTV/4/224/3221227642/index.m3u8
+CCTV7,https://live.goodiptv.club/api/cqyx.php?id=cctv7HD
 
 CCTV8,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221227473/index.m3u8
 CCTV8,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4086984004_1136880123/ott.mobaibox.com/PLTV/3/224/3221227473/index.m3u8?icpid=3&RTS=1668594586&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
@@ -251,6 +255,7 @@ CCTV10,http://ott.mobaibox.com/PLTV/4/224/3221225550/index.m3u8
 CCTV10,http://ott.mobaibox.com/PLTV/4/224/3221227317/index.m3u8
 CCTV10,http://ott.mobaibox.com/PLTV/4/224/3221227620/index.m3u8
 CCTV10,http://ott.mobaibox.com/PLTV/4/224/3221227717/index.m3u8
+CCTV10,https://live.goodiptv.club/api/cqyx.php?id=cctv10HD
 
 CCTV11,http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221227384/1.m3u8
 CCTV11,http://ott.mobaibox.com/PLTV/3/224/3221227384/index.m3u8
@@ -279,7 +284,6 @@ CCTV13,http://ott.mobaibox.com/PLTV/4/224/3221227387/index.m3u8
 CCTV13,http://ott.mobaibox.com/PLTV/4/224/3221228121/index.m3u8
 CCTV13,http://ott.mobaibox.com/PLTV/4/224/3221228224/index.m3u8
 
-
 CCTV14,http://ott.mobaibox.com/PLTV/3/224/3221227201/index.m3u8
 CCTV14,http://ott.mobaibox.com/PLTV/3/224/3221227656/index.m3u8
 CCTV14,http://ott.mobaibox.com/PLTV/3/224/3221227693/index.m3u8
@@ -293,22 +297,18 @@ CCTV15,http://ott.mobaibox.com/PLTV/3/224/3221227723/index.m3u8
 CCTV15,http://ott.mobaibox.com/PLTV/4/224/3221227538/index.m3u8
 CCTV15,http://ott.mobaibox.com/PLTV/4/224/3221227723/index.m3u8
 
-CCTV16 奥林匹克,http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
-CCTV16 奥林匹克,http://ott.mobaibox.com/PLTV/4/224/3221228320/index.m3u8
-CCTV16 奥林匹克,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/ott.mobaibox.com/PLTV/3/224/3221228144/index.m3u8
-CCTV16 奥林匹克,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw456909575_2098882473/ott.mobaibox.com/PLTV/3/224/3221228144/index.m3u8?icpid=3&RTS=1668595251&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
-CCTV16 奥林匹克,http://ott.mobaibox.com/PLTV/3/224/3221228112/index.m3u8
-CCTV16 奥林匹克,http://ott.mobaibox.com/PLTV/3/224/3221228144/index.m3u8
-CCTV16 奥林匹克,http://ott.mobaibox.com/PLTV/4/224/3221228112/index.m3u8
-CCTV16 奥林匹克,http://ott.mobaibox.com/PLTV/4/224/3221228144/index.m3u8
-CCTV16 奥林匹克,http://ott.mobaibox.com/PLTV/3/224/3221228112/index.m3u8
-CCTV16 奥林匹克,http://ott.mobaibox.com/PLTV/3/224/3221228144/index.m3u8
-CCTV16 奥林匹克,http://ott.mobaibox.com/PLTV/4/224/3221228112/index.m3u8
-CCTV16 奥林匹克,http://ott.mobaibox.com/PLTV/4/224/3221228127/index.m3u8
-CCTV16 奥林匹克,http://ott.mobaibox.com/PLTV/4/224/3221228144/index.m3u8
-CCTV16 奥林匹克,http://ott.mobaibox.com/PLTV/4/224/3221228168/index.m3u8
-CCTV16 奥林匹克,http://ott.mobaibox.com/PLTV/4/224/3221228320/index.m3u8
 
+CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/ott.mobaibox.com/PLTV/3/224/3221228144/index.m3u8
+CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw456909575_2098882473/ott.mobaibox.com/PLTV/3/224/3221228144/index.m3u8?icpid=3&RTS=1668595251&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
+CCTV16,http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
+CCTV16,http://ott.mobaibox.com/PLTV/4/224/3221228320/index.m3u8
+CCTV16,http://ott.mobaibox.com/PLTV/3/224/3221228112/index.m3u8
+CCTV16,http://ott.mobaibox.com/PLTV/3/224/3221228144/index.m3u8
+CCTV16,http://ott.mobaibox.com/PLTV/4/224/3221228112/index.m3u8
+CCTV16,http://ott.mobaibox.com/PLTV/4/224/3221228144/index.m3u8
+CCTV16,http://ott.mobaibox.com/PLTV/4/224/3221228127/index.m3u8
+CCTV16,http://ott.mobaibox.com/PLTV/4/224/3221228168/index.m3u8
+CCTV16,http://202.100.46.58:9901/tsfile/live/1016_1.m3u8
 
 CCTV17,http://ott.mobaibox.com/PLTV/3/224/3221227578/index.m3u8
 CCTV17,http://ott.mobaibox.com/PLTV/3/224/3221227589/index.m3u8
@@ -323,5 +323,9 @@ CCTV17,http://ott.mobaibox.com/PLTV/4/224/3221227726/index.m3u8
 CCTV高尔夫网球,http://ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8
 CCTV高尔夫网球,http://ott.mobaibox.com/PLTV/4/224/3221228138/index.m3u8
 
-CGTN英语,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/index.m3u8?m3u8_level=2
-CGTN记录,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63a15d0ee63f3/index.m3u8?m3u8_level=2
+CCTV怀旧剧场,http://111.61.236.247:9081/hls/67/index.m3u8
+CCTV女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8
+
+CGTN,https://0472.org/hls/cgtn.m3u8
+CGTN纪录,https://0472.org/hls/cgtnd.m3u8
+TV BRICS金砖五国中文,https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8

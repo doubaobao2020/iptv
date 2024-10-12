@@ -5,7 +5,7 @@
 
 美国FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 美国FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8?
-美国NASA公共频道,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
 美国Akaku 53 (Hawaii),https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8
 美国Akaku 54 (Hawaii),https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
 美国Akaku 55 (Hawaii),https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
@@ -13,7 +13,7 @@
 美国In the kitchen,https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
 美国Youtoo America,https://thegateway.app/YouToo/CueTones/playlist.m3u8
 美国UN Web TV,https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-美国TSTV,https://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+
 
 加拿大Canada One,http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 加拿大TAG TV,http://cdn11.live247stream.com/tag/tv/playlist.m3u8
@@ -43,4 +43,4 @@ AXS TV NOW,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 WOW!TV,http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 WOW!TV,http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 ﻿
-Contact Vision TV,http://contactvision.flashmediacast.com:1935/contactvision/livestream/playlist.m3u8
+

@@ -1,5 +1,58 @@
-#舞蹈点播
+#音乐
+Channel [V],http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/channelv.m3u8
+动感音乐,https://live.goodiptv.club/api/ghyx.php?id=DongGanYinYueHD_2000
+动感音悦台,http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
+斗鱼MTV2,http://epg.112114.xyz/douyu/5635000
+斗鱼MTV2,http://zzy789.xyz/douyu1.php?id=5635000
+斗鱼MTV4,http://zzy789.xyz/douyu1.php?id=9586235
+风尚音乐,http://125.210.152.21:9120/live/FSYY.m3u8
+风尚音乐,http://cache.ott.fifalive.itv.cmvideo.cn:80/5529729098703832176/index.m3u8?channel-id=wasusyt&Contentid=5529729098703832176&livemode=1&stbId=no
+风尚音乐,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000294
+湖南芒果音乐台,http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
+湖南芒果音乐台,http://live.cooltv.top/tv/ytradio.php?id=524
+星空音乐会,https://cn-fjqz-cmcc-v-07.bilivideo.com/live-bvc/935297/live_57859809_8337755.m3u8?cdn=cn-gotcha01&expires=1656813203&len=0&oi=3746152197&pt=h5&qn=10000&trid=100304c273d050c5421e99fb7b09468a21b9&sigparams=cdn,expires,len,oi,pt,qn,trid&sign=e42afcf6ebb5b0382e72ed71ccdddf59&ptype=0&src=8&sl=1&source=one&sche=ban&sid=19107&sk=14d51c1a6dc228c92ade944fd1770e3b&order=4
+炫舞未来,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+摇滚天空台,http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
+音乐Retro,http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+音乐榜,http://txtest-xp2p.p2p.huya.com/src/1099531740260-1099531740260-86382461021323264-2199063603976-10057-A-0-1.xs
+音乐节目2,http://124.223.212.38:83/douyu/603070
+音乐节目2,http://epg.112114.xyz/douyu/603070
+音乐石榴「音乐」,http://live.iill.top/huya.php?id=17091681
+音乐速递「音乐」,http://live.iill.top/huya.php?id=19439762
+音乐现场,http://[2409:8087:1020:301:2026::22]:80/wh7f454c46tw4050912458_1622357704/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225706/10000100000000060000000000000742_0.smil/01.m3u8?fmt=ts2hls
+音乐小石榴,http://txtest-xp2p.p2p.huya.com/src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.xs
+音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+音乐之声,https://live.goodiptv.club/api/itouch.php?id=2514
+治愈•放松「音乐」,http://live.iill.top/huya.php?id=21241811
+
+
+#歌舞
 SING女团 风陵渡口,https://vdse.bdstatic.com//a499dfbec34060ce0f380ea789446f07.mp4
+SNH48剧场公演,http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8
+斗鱼歌舞1,http://124.223.212.38:83/douyu/6266000
+斗鱼歌舞1,http://epg.112114.xyz/douyu/6266000
+斗鱼歌舞1,http://zzy789.xyz/douyu1.php?id=6266000
+斗鱼歌舞2,http://epg.112114.xyz/douyu/5628327
+斗鱼歌舞2,http://zzy789.xyz/douyu1.php?id=5628327
+斗鱼歌舞3,http://epg.112114.xyz/douyu/4582220
+斗鱼歌舞4,http://epg.112114.xyz/douyu/5103313
+斗鱼歌舞4,http://zzy789.xyz/douyu1.php?id=5103313
+斗鱼歌舞5,http://zzy789.xyz/douyu1.php?id=5746514
+斗鱼歌舞7,http://zzy789.xyz/douyu1.php?id=5367400
+斗鱼歌舞HD1,http://124.223.212.38:83/douyu/6129898
+斗鱼歌舞HD1,http://epg.112114.xyz/douyu/6129898
+斗鱼歌舞HD1,http://zzy789.xyz/douyu1.php?id=6129898
+斗鱼歌舞HD2,http://epg.112114.xyz/douyu/920891
+斗鱼歌舞HD3,http://124.223.212.38:83/douyu/5943125
+斗鱼歌舞HD3,http://epg.112114.xyz/douyu/5943125
+斗鱼歌舞HD3,http://zzy789.xyz/douyu1.php?id=5943125
+斗鱼歌舞HD4,http://124.223.212.38:83/douyu/3763915
+斗鱼歌舞HD4,http://epg.112114.xyz/douyu/3763915
+斗鱼歌舞HD4,http://zzy789.xyz/douyu1.php?id=3763915
+斗鱼歌舞HD5,http://124.223.212.38:83/douyu/1607787
+斗鱼歌舞HD5,http://epg.112114.xyz/douyu/1607787
+斗鱼歌舞HD6,http://epg.112114.xyz/douyu/549212
+斗鱼歌舞HD7,http://zzy789.xyz/douyu1.php?id=592561
 歌团★021,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239808028600.mp4
 歌团★022,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240031614983.mp4
 歌团★023,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240150331617.mp4
@@ -129,6 +182,21 @@ SING女团 风陵渡口,https://vdse.bdstatic.com//a499dfbec34060ce0f380ea789446
 歌团★151,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240270774376.mp4
 歌团★152,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240151273206.mp4
 歌团★153,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389031565.mp4
+韩国,http://124.223.212.38:83/douyu/17732
+韩国,http://124.223.212.38:83/douyu/8066352
+韩国,http://diyp.112114.xyz/douyu/17732
+韩国,http://diyp.112114.xyz/douyu/8066352
+韩国,http://fangsong.live/hls/douyu.php?id=17732
+韩国,http://fangsong.live/hls/douyu.php?id=8066352
+韩国,http://nettvpro.live/hls/naver.php?id=3046074
+韩国,http://txtest-xp2p.p2p.huya.com/src/1423782086-1423782086-6115097496000659456-2847687628-10057-A-0-1-imgplus.xs
+韩国-1,http://diyp.112114.xyz/douyu/40471
+韩国-1,http://fangsong.live/hls/douyu.php?id=40471
+韩国-2,http://diyp.112114.xyz/douyu/131977
+韩国-2,http://diyp.112114.xyz/douyu/603070
+韩国-2,http://fangsong.live/hls/douyu.php?id=603070
+韩国-3,http://diyp.112114.xyz/douyu/7298973
+韩国-3,http://fangsong.live/hls/douyu.php?id=7298973
 韩国Alan Walker-feat,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg9qiM5gUo-tns8Qc.mp4
 韩国AOA-Excuse Me,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmozg7AUolaeS8gU.mp4
 韩国AOA-Like A Cat,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtfm95QUok8Wu6AQ.mp4
@@ -364,9 +432,12 @@ SING女团 风陵渡口,https://vdse.bdstatic.com//a499dfbec34060ce0f380ea789446
 迈阿密泳装周合集,https://vd2.bdstatic.com/mda-kcjmkds5b68q4g5c/v1-cae/hd/mda-kcjmkds5b68q4g5c.mp4
 
 
-
-
-#音乐点播
+#歌曲
+巨星金曲迎新春 第1集,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201220/5623330Er2DcyIsoClOlISJ3H.m3u8
+巨星金曲迎新春 第2集,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201220/5623330OSnsCdwvvnyO7tVo9w.m3u8
+巨星金曲迎新春 第3集,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201220/5623330DP3dRrYfqtq6VyPBNl.m3u8
+巨星金曲迎新春 第4集,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201220/56233303FWTFhdGBb9wYV7boH.m3u8
+巨星金曲迎新春 第5集,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201220/5623330TxVAehrMQwH94njYEM.m3u8
 《爱难求情难断…》,https://vdse.bdstatic.com//0c8ed110c5522e9bd31752ecb999b1ab.mp4
 《爱你到最后一刻》,https://vd3.bdstatic.com/mda-mhr9c7q9xzgy1812/1080p/cae_h264/1630062648077583523/mda-mhr9c7q9xzgy1812.mp4
 《唱着情歌流着泪》,https://vd3.bdstatic.com/mda-mhwaejanf0ie6b8j/1080p/cae_h264/1630409563129833732/mda-mhwaejanf0ie6b8j.mp4
@@ -1610,6 +1681,23 @@ Z.Hera- D island,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyKvB4gUonsKPowM
 左手指月,http://mobi.kuwo.cn/tmevideo/tme1253595.mp4
 左手指月,https://vdse.bdstatic.com//b35227847ccb42d48ea6414d47087ce9.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A26%3A59Z%2F-1%2Fhost
 作酒,http://mobi.kuwo.cn/tmevideo/tme16186338.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

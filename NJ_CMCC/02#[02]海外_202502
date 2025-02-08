@@ -1,0 +1,88 @@
+#半岛电视台
+半岛新闻AlJazeera,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+半岛新闻AlJazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+
+#新加坡
+新加坡CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+新加坡CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+新加坡CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+新加坡CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+
+
+#美国
+美国AXS TV Now,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+美国Beverly Hills Television 35,https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/beverlyhills/G0072_007/playlist.m3u8
+美国Big Ten Network,http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+美国Bloomberg,https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+美国CBS Sports Network USA,http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+美国CBS Sports Network,http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+美国CNBC,http://fl2.moveonjoy.com/CNBC/index.m3u8
+美国County News Center,https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/playlist.m3u8
+美国Del Mar TV,https://d25ykpi2vxhoyc.cloudfront.net/delmar-cdn/dmtv/playlist.m3u8
+美国Disney Channel,http://109.233.89.170/Disney_Channel/mono.m3u8
+美国Extrema TV,http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+美国Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+美国Fox News,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+美国Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+美国Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+美国Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8?
+美国Fox Sports 1,http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+美国Hallmark Channel East,http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+美国In the kitchen,https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
+美国MGM+ East,http://fl2.moveonjoy.com/EPIX/index.m3u8
+美国MLB Network,http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+美国Newsmax TV,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+美国NFL Network,http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+美国Nickelodeon,http://143.244.60.30/NICKELODEON/index.m3u8
+美国NickToons,http://143.244.60.30/NICKTOONS/index.m3u8
+美国Orange TV3,https://cdn3.wowza.com/5/R09KQXpaMWlrRjly/cityoforange/G1025_004/playlist.m3u8
+美国Outdoor HD,http://ott.watch/stream/E7Q3UVKI5H/211.m3u8
+美国Paramount Network East,http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+美国Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+美国SCOTTSDALE VIDEO NETWORK Channel 11,https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/scottsdale/G0040_007/chunklist.m3u8
+美国TBS,http://143.244.60.30/TBS/index.m3u8
+美国Tempe Channel 11,https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/tempe/G0355_003/chunklist.m3u8
+美国UN Web TV,https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+美国Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+美国WOW!TV,http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+﻿美国WOW!TV,http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+美国Youtoo America,https://thegateway.app/YouToo/CueTones/playlist.m3u8
+
+
+#加拿大
+加拿大Canada One,http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+加拿大Crave 1,http://fl3.moveonjoy.com/CRAVE_1/index.m3u8
+加拿大Oxygen East,http://fl2.moveonjoy.com/OXYGEN/index.m3u8
+加拿大Pardesi TV,http://stream.pardesitv.online/pardesi/index.m3u8
+加拿大TAG TV,http://cdn11.live247stream.com/tag/tv/playlist.m3u8
+加拿大The Shopping Channel,http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+
+
+#俄罗斯
+俄罗斯First Music,http://rtmp.one.by:1200
+俄罗斯RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+俄罗斯RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+俄罗斯TV BRICS,https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
+
+
+#英国
+英国Global News Kingston,https://live.corusdigitaldev.com/groupa/live/023a9e25-f0cf-4d97-af9f-5c665b7d45b9/live.isml/.m3u8
+
+#法国
+法国Fashion TV,http://91.247.68.229:8000/play/Fashion/index.m3u8
+法国Fashion TV2,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+法国Ontario Parliamentary Network,http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
+
+#韩国
+韩国arirang国际,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
+韩国arirang国际,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+韩国GS Shop,https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+韩国KBS国际,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+韩国MBC韩剧,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+
+#朝鲜
+朝鲜KCTV,http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
+朝鲜KCTV,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
+朝鲜KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+

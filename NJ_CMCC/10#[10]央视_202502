@@ -21,13 +21,6 @@ CCTV1,http://ott.mobaibox.com/PLTV/3/224/3221227644/index.m3u8
 CCTV1,http://ott.mobaibox.com/PLTV/3/224/3221227675/index.m3u8
 CCTV1,http://ott.mobaibox.com/PLTV/3/224/3221228049/index.m3u8
 CCTV1,http://ott.mobaibox.com/PLTV/4/224/3221227467/index.m3u8
-CCTV1,http://ott.mobaibox.com/PLTV/4/224/3221227641/index.m3u8
-CCTV1,http://ott.mobaibox.com/PLTV/4/224/3221227644/index.m3u8
-CCTV1,http://ott.mobaibox.com/PLTV/4/224/3221227675/index.m3u8
-CCTV1,http://ott.mobaibox.com/PLTV/4/224/3221228049/index.m3u8
-CCTV1,http://ott.mobaibox.com/PLTV/4/224/3221228146/index.m3u8
-CCTV1,http://ott.mobaibox.com/PLTV/4/224/3221228149/index.m3u8
-CCTV1,http://ott.mobaibox.com/PLTV/4/224/3221228213/index.m3u8
 CCTV1,http://ott.mobaibox.com/PLTV/4/224/3221227634/index.m3u8
 CCTV1,http://ott.mobaibox.com/PLTV/4/224/3221227641/index.m3u8
 CCTV1,http://ott.mobaibox.com/PLTV/4/224/3221227644/index.m3u8
@@ -37,13 +30,14 @@ CCTV1,http://ott.mobaibox.com/PLTV/4/224/3221228049/index.m3u8
 CCTV1,http://ott.mobaibox.com/PLTV/4/224/3221228146/index.m3u8
 CCTV1,http://ott.mobaibox.com/PLTV/4/224/3221228149/index.m3u8
 CCTV1,http://ott.mobaibox.com/PLTV/4/224/3221228213/index.m3u8
-CCTV1,https://live.goodiptv.club/api/cqyx.php?id=cctv1HD
-
+CCTV1,http://ott.mobaibox.com/PLTV/3/224/3221227730/index.m3u8
+CCTV1,http://ott.mobaibox.com/PLTV/4/224/3221227730/index.m3u8
 
 CCTV2,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221227543/index.m3u8
 CCTV2,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3589111099_-1793408755/ott.mobaibox.com/PLTV/3/224/3221227543/index.m3u8?icpid=3&RTS=1668594088&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 CCTV2,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228300/index.m3u8
 CCTV2,http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221226993/1.m3u8
+
 CCTV2,http://ott.mobaibox.com/PLTV/3/224/3221226993/index.m3u8
 CCTV2,http://ott.mobaibox.com/PLTV/3/224/3221227207/index.m3u8
 CCTV2,http://ott.mobaibox.com/PLTV/3/224/3221227427/index.m3u8
@@ -61,7 +55,6 @@ CCTV2,http://ott.mobaibox.com/PLTV/4/224/3221227708/index.m3u8
 CCTV2,http://ott.mobaibox.com/PLTV/4/224/3221228094/index.m3u8
 CCTV2,http://ott.mobaibox.com/PLTV/4/224/3221228118/index.m3u8
 CCTV2,http://ott.mobaibox.com/PLTV/4/224/3221228300/index.m3u8
-
 CCTV3,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228126/index.m3u8
 CCTV3,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw3746132328_-1754088424/ott.mobaibox.com/PLTV/3/224/3221228126/index.m3u8?icpid=3&RTS=1668594245&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
 CCTV3,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/3/224/3221227623/index.m3u8
@@ -115,7 +108,6 @@ CCTV4,http://ott.mobaibox.com/PLTV/4/224/3221227658/index.m3u8
 CCTV4,http://ott.mobaibox.com/PLTV/4/224/3221227683/index.m3u8
 CCTV4,http://ott.mobaibox.com/PLTV/4/224/3221228091/index.m3u8
 CCTV4,http://ott.mobaibox.com/PLTV/4/224/3221228156/index.m3u8
-
 CCTV5,http://[2409:8087:2001:20:2800:0:df6e:eb15]/ott.mobaibox.com/PLTV/3/224/3221228179/index.m3u8
 CCTV5,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 CCTV5,http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221227298/1.m3u8
@@ -142,8 +134,6 @@ CCTV5,http://ott.mobaibox.com/PLTV/4/224/3221228082/index.m3u8
 CCTV5,http://ott.mobaibox.com/PLTV/4/224/3221228173/index.m3u8
 CCTV5,http://ott.mobaibox.com/PLTV/4/224/3221228179/index.m3u8
 CCTV5,http://ott.mobaibox.com/PLTV/4/224/3221228395/index.m3u8
-CCTV5,https://live.goodiptv.club/api/cqyx.php?id=cctv5HD
-
 CCTV5+,http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221227480/1.m3u8
 CCTV5+,http://ott.mobaibox.com/PLTV/3/224/3221225604/index.m3u8
 CCTV5+,http://ott.mobaibox.com/PLTV/3/224/3221227381/index.m3u8
@@ -166,10 +156,9 @@ CCTV5+,http://ott.mobaibox.com/PLTV/4/224/3221228076/index.m3u8
 CCTV5+,http://ott.mobaibox.com/PLTV/4/224/3221228114/index.m3u8
 CCTV5+,http://ott.mobaibox.com/PLTV/4/224/3221228176/index.m3u8
 CCTV5+,http://ott.mobaibox.com/PLTV/4/224/3221228277/index.m3u8
-
-CCTV6,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
 CCTV6,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221227505/index.m3u8
 CCTV6,http://[2409:8087:2001:20:2800:0:df6e:eb13]/wh7f454c46tw3940641123_459833286/ott.mobaibox.com/PLTV/3/224/3221227505/index.m3u8?icpid=3&RTS=1668594440&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
+CCTV6,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
 CCTV6,http://ott.mobaibox.com/PLTV/3/224/3221225548/index.m3u8
 CCTV6,http://ott.mobaibox.com/PLTV/3/224/3221227209/index.m3u8
 CCTV6,http://ott.mobaibox.com/PLTV/3/224/3221227301/index.m3u8
@@ -191,8 +180,6 @@ CCTV6,http://ott.mobaibox.com/PLTV/4/224/3221228123/index.m3u8
 CCTV6,http://ott.mobaibox.com/PLTV/4/224/3221228185/index.m3u8
 CCTV6,http://ott.mobaibox.com/PLTV/4/224/3221228196/index.m3u8
 CCTV6,http://ott.mobaibox.com/PLTV/4/224/3221228280/index.m3u8
-CCTV6,https://live.goodiptv.club/api/cqyx.php?id=cctv6HD
-
 CCTV7,http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221227314/1.m3u8
 CCTV7,http://ott.mobaibox.com/PLTV/3/224/3221225546/index.m3u8
 CCTV7,http://ott.mobaibox.com/PLTV/3/224/3221227314/index.m3u8
@@ -202,8 +189,6 @@ CCTV7,http://ott.mobaibox.com/PLTV/4/224/3221225546/index.m3u8
 CCTV7,http://ott.mobaibox.com/PLTV/4/224/3221227314/index.m3u8
 CCTV7,http://ott.mobaibox.com/PLTV/4/224/3221227626/index.m3u8
 CCTV7,http://ott.mobaibox.com/PLTV/4/224/3221227642/index.m3u8
-CCTV7,https://live.goodiptv.club/api/cqyx.php?id=cctv7HD
-
 CCTV8,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221227473/index.m3u8
 CCTV8,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4086984004_1136880123/ott.mobaibox.com/PLTV/3/224/3221227473/index.m3u8?icpid=3&RTS=1668594586&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 CCTV8,http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221227205/1.m3u8
@@ -228,7 +213,6 @@ CCTV8,http://ott.mobaibox.com/PLTV/4/224/3221228079/index.m3u8
 CCTV8,http://ott.mobaibox.com/PLTV/4/224/3221228194/index.m3u8
 CCTV8,http://ott.mobaibox.com/PLTV/4/224/3221228398/index.m3u8
 
-
 CCTV9,http://ott.mobaibox.com/PLTV/3/224/3221225532/index.m3u8
 CCTV9,http://ott.mobaibox.com/PLTV/3/224/3221227614/index.m3u8
 CCTV9,http://ott.mobaibox.com/PLTV/3/224/3221227659/index.m3u8
@@ -237,6 +221,7 @@ CCTV9,http://ott.mobaibox.com/PLTV/4/224/3221225532/index.m3u8
 CCTV9,http://ott.mobaibox.com/PLTV/4/224/3221227614/index.m3u8
 CCTV9,http://ott.mobaibox.com/PLTV/4/224/3221227659/index.m3u8
 CCTV9,http://ott.mobaibox.com/PLTV/4/224/3221227704/index.m3u8
+
 
 CCTV10,http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221227317/1.m3u8
 CCTV10,http://ott.mobaibox.com/PLTV/3/224/3221225550/index.m3u8
@@ -247,15 +232,7 @@ CCTV10,http://ott.mobaibox.com/PLTV/4/224/3221225550/index.m3u8
 CCTV10,http://ott.mobaibox.com/PLTV/4/224/3221227317/index.m3u8
 CCTV10,http://ott.mobaibox.com/PLTV/4/224/3221227620/index.m3u8
 CCTV10,http://ott.mobaibox.com/PLTV/4/224/3221227717/index.m3u8
-CCTV10,http://ott.mobaibox.com/PLTV/3/224/3221225550/index.m3u8
-CCTV10,http://ott.mobaibox.com/PLTV/3/224/3221227317/index.m3u8
-CCTV10,http://ott.mobaibox.com/PLTV/3/224/3221227620/index.m3u8
-CCTV10,http://ott.mobaibox.com/PLTV/3/224/3221227717/index.m3u8
-CCTV10,http://ott.mobaibox.com/PLTV/4/224/3221225550/index.m3u8
-CCTV10,http://ott.mobaibox.com/PLTV/4/224/3221227317/index.m3u8
-CCTV10,http://ott.mobaibox.com/PLTV/4/224/3221227620/index.m3u8
-CCTV10,http://ott.mobaibox.com/PLTV/4/224/3221227717/index.m3u8
-CCTV10,https://live.goodiptv.club/api/cqyx.php?id=cctv10HD
+
 
 CCTV11,http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221227384/1.m3u8
 CCTV11,http://ott.mobaibox.com/PLTV/3/224/3221227384/index.m3u8
@@ -264,7 +241,6 @@ CCTV11,http://ott.mobaibox.com/PLTV/3/224/3221227720/index.m3u8
 CCTV11,http://ott.mobaibox.com/PLTV/4/224/3221227384/index.m3u8
 CCTV11,http://ott.mobaibox.com/PLTV/4/224/3221227524/index.m3u8
 CCTV11,http://ott.mobaibox.com/PLTV/4/224/3221227720/index.m3u8
-
 
 CCTV12,http://ott.mobaibox.com/PLTV/3/224/3221225556/index.m3u8
 CCTV12,http://ott.mobaibox.com/PLTV/3/224/3221227637/index.m3u8
@@ -284,6 +260,10 @@ CCTV13,http://ott.mobaibox.com/PLTV/4/224/3221227387/index.m3u8
 CCTV13,http://ott.mobaibox.com/PLTV/4/224/3221228121/index.m3u8
 CCTV13,http://ott.mobaibox.com/PLTV/4/224/3221228224/index.m3u8
 
+CCTV13,http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
+CCTV13,http://live.nbs.cn/channels/njtv/sbpd/500k.m3u8?zjiangsd
+
+
 CCTV14,http://ott.mobaibox.com/PLTV/3/224/3221227201/index.m3u8
 CCTV14,http://ott.mobaibox.com/PLTV/3/224/3221227656/index.m3u8
 CCTV14,http://ott.mobaibox.com/PLTV/3/224/3221227693/index.m3u8
@@ -291,24 +271,22 @@ CCTV14,http://ott.mobaibox.com/PLTV/4/224/3221227201/index.m3u8
 CCTV14,http://ott.mobaibox.com/PLTV/4/224/3221227656/index.m3u8
 CCTV14,http://ott.mobaibox.com/PLTV/4/224/3221227693/index.m3u8
 
-
 CCTV15,http://ott.mobaibox.com/PLTV/3/224/3221227538/index.m3u8
 CCTV15,http://ott.mobaibox.com/PLTV/3/224/3221227723/index.m3u8
 CCTV15,http://ott.mobaibox.com/PLTV/4/224/3221227538/index.m3u8
 CCTV15,http://ott.mobaibox.com/PLTV/4/224/3221227723/index.m3u8
 
-
 CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/ott.mobaibox.com/PLTV/3/224/3221228144/index.m3u8
 CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw456909575_2098882473/ott.mobaibox.com/PLTV/3/224/3221228144/index.m3u8?icpid=3&RTS=1668595251&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
-CCTV16,http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
-CCTV16,http://ott.mobaibox.com/PLTV/4/224/3221228320/index.m3u8
+CCTV16,http://202.100.46.58:9901/tsfile/live/1016_1.m3u8
 CCTV16,http://ott.mobaibox.com/PLTV/3/224/3221228112/index.m3u8
 CCTV16,http://ott.mobaibox.com/PLTV/3/224/3221228144/index.m3u8
+CCTV16,http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
 CCTV16,http://ott.mobaibox.com/PLTV/4/224/3221228112/index.m3u8
-CCTV16,http://ott.mobaibox.com/PLTV/4/224/3221228144/index.m3u8
 CCTV16,http://ott.mobaibox.com/PLTV/4/224/3221228127/index.m3u8
+CCTV16,http://ott.mobaibox.com/PLTV/4/224/3221228144/index.m3u8
 CCTV16,http://ott.mobaibox.com/PLTV/4/224/3221228168/index.m3u8
-CCTV16,http://202.100.46.58:9901/tsfile/live/1016_1.m3u8
+CCTV16,http://ott.mobaibox.com/PLTV/4/224/3221228320/index.m3u8
 
 CCTV17,http://ott.mobaibox.com/PLTV/3/224/3221227578/index.m3u8
 CCTV17,http://ott.mobaibox.com/PLTV/3/224/3221227589/index.m3u8
@@ -322,10 +300,5 @@ CCTV17,http://ott.mobaibox.com/PLTV/4/224/3221227726/index.m3u8
 
 CCTV高尔夫网球,http://ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8
 CCTV高尔夫网球,http://ott.mobaibox.com/PLTV/4/224/3221228138/index.m3u8
-
 CCTV怀旧剧场,http://111.61.236.247:9081/hls/67/index.m3u8
 CCTV女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8
-
-CGTN,https://0472.org/hls/cgtn.m3u8
-CGTN纪录,https://0472.org/hls/cgtnd.m3u8
-TV BRICS金砖五国中文,https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8

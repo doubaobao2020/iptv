@@ -4,8 +4,9 @@ CCTV 4K,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4259108076_49652
 CCTV 4K,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 CCTV 4K,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 CCTV 4K,http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228472/1.m3u8
-CCTV 4K,http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 CCTV 4K,http://ott.mobaibox.com/PLTV/4/224/3221228228/index.m3u8
+CCTV 4K,http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
+
 
 纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
 纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
@@ -13,8 +14,10 @@ CCTV 4K,http://ott.mobaibox.com/PLTV/4/224/3221228228/index.m3u8
 纯享4K,http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
 纯享4K,http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 纯享4K,http://ott.mobaibox.com/PLTV/4/224/3221227506/index.m3u8
-纯享4K,http://ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 纯享4K,http://ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
+纯享4K,http://ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
+
+
 
 CCTV3_4K,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
 
@@ -28,12 +31,11 @@ CCTV5_4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224
 4K修复,http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 4K修复,http://ott.mobaibox.com/PLTV/4/224/3221228141/index.m3u8
 
-咪咕体育4K_1,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
-咪咕体育4K_2,http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
+咪咕体育4K,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
+移动云VR4K,http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
 
 爱自然4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
-纪实科教8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 
 CCTV 8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 CCTV 8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw3737653395_1580816352/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1678665935&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
@@ -47,4 +49,3 @@ CCTV 8K,http://ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 风景8K,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8?icpid=3&RTS=1674188624&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 风景8K,http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 风景8K,http://ott.mobaibox.com/PLTV/4/224/3221228132/index.m3u8
-
